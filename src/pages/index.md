@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 단미 봇은 거래소 관찰자입니다.
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      단미 봇은 한 시도 쉬지 않고 실시간으로 원화 마켓의 모든 거래 이력을 관찰합니다.관찰 후 원하는 거래 신호가 감지되면 여러분에게
+      알려드립니다.
     actions:
       - label: Learn More
         url: /features
