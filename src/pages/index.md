@@ -39,10 +39,9 @@ sections:
             url: /features
             style: secondary
       - title: 감지하고 있는 신호들
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          현재는 분 당 급상승하는 코인 신호만을 감지하고 있습니다.
+          가까운 미래에 감지할 신호를 추가할 계획입니다.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
