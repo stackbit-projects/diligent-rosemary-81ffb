@@ -51,10 +51,10 @@ sections:
             url: /features
             style: secondary
       - title: 사용 방법
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |
+          단미 봇을 사용하는 방법은 카카오톡을 사용하는 것만큼 쉽습니다.
+          텔레그램을 모바일에 설치하거나 데스크톱에 설치한 후 채널에 들어가면 됩니다.
+          채널에 들어간 후 실시간으로 전달되는 단미 봇의 보고서를 읽으시면 됩니다.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
