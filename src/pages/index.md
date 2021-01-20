@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: 지원하는 거래소 및 마켓
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
