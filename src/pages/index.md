@@ -28,10 +28,8 @@ sections:
     title: Features
     features:
       - title: 지원하는 거래소 및 마켓
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          단미 봇은 현재 국내 거래소 중 업비트의 원화 마켓을 지원합니다.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
