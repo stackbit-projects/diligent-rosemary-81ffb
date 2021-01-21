@@ -7,7 +7,7 @@ sections:
       단미 봇은 한 시도 쉬지 않고 실시간으로 원화 마켓의 모든 거래 이력을 관찰합니다.관찰 후 원하는 거래 신호가 감지되면 여러분에게
       알려드립니다.
     actions:
-      - label: Learn More
+      - label: 채널 참여
         url: /features
         style: primary
       - label: Contact Us
