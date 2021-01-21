@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/stock-market-1.svg
+    image: images/statistics(2).svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
