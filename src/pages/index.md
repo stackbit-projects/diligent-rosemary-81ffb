@@ -58,7 +58,7 @@ sections:
         image_position: right
         actions:
           - label: 채널 참여
-            url: /features
+            url: 'https://t.me/joinchat/GMJ_yZMmSJX4QlU7'
             style: secondary
   - type: blog_feed_section
     title: What's New
