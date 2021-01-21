@@ -8,7 +8,7 @@ sections:
       알려드립니다.
     actions:
       - label: 채널 참여
-        url: /features
+        url: 'https://t.me/joinchat/GMJ_yZMmSJX4QlU7'
         style: primary
       - label: Contact Us
         url: /contact
