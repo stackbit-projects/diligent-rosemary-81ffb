@@ -31,7 +31,7 @@ sections:
         content: |
           단미 봇은 현재 국내 거래소 중 업비트의 원화 마켓을 지원합니다.
         align: left
-        image: images/feature.svg
+        image: images/analytics.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
