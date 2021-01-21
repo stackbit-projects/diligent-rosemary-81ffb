@@ -33,7 +33,7 @@ sections:
         image_position: right
         actions:
           - label: 채널 참여
-            url: /features
+            url: 'https://t.me/joinchat/GMJ_yZMmSJX4QlU7'
             style: secondary
       - title: 감지하고 있는 신호들
         content: |
