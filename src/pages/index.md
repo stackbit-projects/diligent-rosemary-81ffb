@@ -45,7 +45,7 @@ sections:
         image_position: left
         actions:
           - label: 채널 참여
-            url: /features
+            url: 'https://t.me/joinchat/GMJ_yZMmSJX4QlU7'
             style: secondary
       - title: 사용 방법
         content: |
