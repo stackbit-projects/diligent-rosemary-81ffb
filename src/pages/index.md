@@ -10,9 +10,6 @@ sections:
       - label: 채널 참여
         url: 'https://t.me/joinchat/GMJ_yZMmSJX4QlU7'
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/statistics(2).svg
     image_alt: Hero placeholder image
