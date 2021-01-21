@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: 기능 및 소개
     features:
       - title: 지원하는 거래소 및 마켓
         content: |
