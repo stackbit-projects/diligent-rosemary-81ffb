@@ -43,7 +43,7 @@ sections:
           현재는 분 당 급상승하는 코인 신호만을 감지하고 있습니다.
           가까운 미래에 감지할 신호를 추가할 계획입니다.
         align: left
-        image: images/feature.svg
+        image: images/stock-market-1.svg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
