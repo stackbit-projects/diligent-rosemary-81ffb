@@ -32,7 +32,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: 채널 참여
             url: /features
             style: secondary
       - title: 감지하고 있는 신호들
