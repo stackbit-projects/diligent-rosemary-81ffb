@@ -63,10 +63,7 @@ sections:
   - type: cta_section
     title: 주의 사항
     subtitle: 단미 봇은 어떠한 코인도 추천하지 않습니다. 단미 봇의 보고서를 참고하여 진행한 투자 행위는 오로지 사용자의 책임입니다.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     has_background: true
     background_color: gray
 template: advanced
